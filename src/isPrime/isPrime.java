@@ -4,7 +4,7 @@ public class isPrime {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello This is Prime!");
+		System.out.println("Hello This Prime!");
 
 		System.out.println(isPrime(2));
 		System.out.println(isPrime(3));
